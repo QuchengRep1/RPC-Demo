@@ -9,6 +9,7 @@ import java.net.Socket;
 
 public class Stub {
     public User findUserById(Integer id) throws Exception{
+
         Socket s = new Socket("127.0.0.1",8989);
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
         DataOutputStream dos = new DataOutputStream(baos);
