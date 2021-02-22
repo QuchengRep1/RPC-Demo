@@ -20,6 +20,7 @@ public class Server {
         }
         serverSocket.close();
 
+
     }
 
     private static void process(Socket s) throws IOException {
@@ -35,5 +36,5 @@ public class Server {
         dos.writeUTF(user.getName());
         dos.flush();
     }
-
 }
+
