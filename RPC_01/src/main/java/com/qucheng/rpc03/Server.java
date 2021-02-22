@@ -16,6 +16,7 @@ public class Server {
             Socket ss = serverSocket.accept();
             process(ss);
             ss.close();
+
         }
         serverSocket.close();
 
