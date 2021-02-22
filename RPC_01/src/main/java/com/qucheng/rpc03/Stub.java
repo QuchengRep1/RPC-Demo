@@ -37,7 +37,7 @@ public class Stub {
             }
         };
         
-        System.out.println("Xiao AI Student ~")
+        System.out.println("Xiao AI 同学 ~")
         Object o = Proxy.newProxyInstance(IUserService.class.getClassLoader(), new Class[]{IUserService.class}, h);
         System.out.println(o.getClass().getName());
         System.out.println("Interfaces 1 = " + o.getClass().getInterfaces()[0]);
