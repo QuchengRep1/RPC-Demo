@@ -40,6 +40,7 @@ public class Stub {
         Object o = Proxy.newProxyInstance(IUserService.class.getClassLoader(), new Class[]{IUserService.class}, h);
         System.out.println(o.getClass().getName());
         System.out.println("Interfaces 1 = " + o.getClass().getInterfaces()[0]);
+
         System.out.println("Interfaces all = " + o.getClass().getInterfaces());
         System.out.println("Interfaces all = " + o.getClass().getInterfaces());
 
