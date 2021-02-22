@@ -7,5 +7,6 @@ public class Client {
         IUserService service = Stub.getStub();
         System.out.println(service.findUserById(123));
         System.out.println(service.findUserById(456));
+        System.out.println("Xiao AI Student ~");
     }
 }
