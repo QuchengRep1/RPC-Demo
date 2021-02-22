@@ -1,0 +1,145 @@
+{
+    "parcels": [
+        {
+            "hash": "5291f162f4312def67f50779bdbc25f9be0425f9",
+            "depends": "CDH (>= 5.9), CDH (<< 6)",
+            "replaces": "SPARK",
+            "parcelName": "SPARK2-2.4.0.cloudera2-1.cdh5.13.3.p0.1041012-el6.parcel",
+            "components": [
+                {
+                    "pkg_version": "na\n",
+                    "version": "2.4.0.cloudera2\n",
+                    "name": "spark2\n",
+                    "pkg_release": "na\n"
+                }
+            ]
+        },
+        {
+            "hash": "5291f162f4312def67f50779bdbc25f9be0425f9",
+            "depends": "CDH (>= 5.9), CDH (<< 6)",
+            "replaces": "SPARK",
+            "parcelName": "SPARK2-2.4.0.cloudera2-1.cdh5.13.3.p0.1041012-sles12.parcel",
+            "components": [
+                {
+                    "pkg_version": "na\n",
+                    "version": "2.4.0.cloudera2\n",
+                    "name": "spark2\n",
+                    "pkg_release": "na\n"
+                }
+            ]
+        },
+        {
+            "hash": "5291f162f4312def67f50779bdbc25f9be0425f9",
+            "depends": "CDH (>= 5.9), CDH (<< 6)",
+            "replaces": "SPARK",
+            "parcelName": "SPARK2-2.4.0.cloudera2-1.cdh5.13.3.p0.1041012-xenial.parcel",
+            "components": [
+                {
+                    "pkg_version": "na\n",
+                    "version": "2.4.0.cloudera2\n",
+                    "name": "spark2\n",
+                    "pkg_release": "na\n"
+                }
+            ]
+        },
+        {
+            "hash": "5291f162f4312def67f50779bdbc25f9be0425f9",
+            "depends": "CDH (>= 5.9), CDH (<< 6)",
+            "replaces": "SPARK",
+            "parcelName": "SPARK2-2.4.0.cloudera2-1.cdh5.13.3.p0.1041012-wheezy.parcel",
+            "components": [
+                {
+                    "pkg_version": "na\n",
+                    "version": "2.4.0.cloudera2\n",
+                    "name": "spark2\n",
+                    "pkg_release": "na\n"
+                }
+            ]
+        },
+        {
+            "hash": "5291f162f4312def67f50779bdbc25f9be0425f9",
+            "depends": "CDH (>= 5.9), CDH (<< 6)",
+            "replaces": "SPARK",
+            "parcelName": "SPARK2-2.4.0.cloudera2-1.cdh5.13.3.p0.1041012-jessie.parcel",
+            "components": [
+                {
+                    "pkg_version": "na\n",
+                    "version": "2.4.0.cloudera2\n",
+                    "name": "spark2\n",
+                    "pkg_release": "na\n"
+                }
+            ]
+        },
+        {
+            "hash": "5291f162f4312def67f50779bdbc25f9be0425f9",
+            "depends": "CDH (>= 5.9), CDH (<< 6)",
+            "replaces": "SPARK",
+            "parcelName": "SPARK2-2.4.0.cloudera2-1.cdh5.13.3.p0.1041012-el7.parcel",
+            "components": [
+                {
+                    "pkg_version": "na\n",
+                    "version": "2.4.0.cloudera2\n",
+                    "name": "spark2\n",
+                    "pkg_release": "na\n"
+                }
+            ]
+        },
+        {
+            "hash": "5291f162f4312def67f50779bdbc25f9be0425f9",
+            "depends": "CDH (>= 5.9), CDH (<< 6)",
+            "replaces": "SPARK",
+            "parcelName": "SPARK2-2.4.0.cloudera2-1.cdh5.13.3.p0.1041012-trusty.parcel",
+            "components": [
+                {
+                    "pkg_version": "na\n",
+                    "version": "2.4.0.cloudera2\n",
+                    "name": "spark2\n",
+                    "pkg_release": "na\n"
+                }
+            ]
+        },
+        {
+            "hash": "5291f162f4312def67f50779bdbc25f9be0425f9",
+            "depends": "CDH (>= 5.9), CDH (<< 6)",
+            "replaces": "SPARK",
+            "parcelName": "SPARK2-2.4.0.cloudera2-1.cdh5.13.3.p0.1041012-sles11.parcel",
+            "components": [
+                {
+                    "pkg_version": "na\n",
+                    "version": "2.4.0.cloudera2\n",
+                    "name": "spark2\n",
+                    "pkg_release": "na\n"
+                }
+            ]
+        },
+        {
+            "hash": "5291f162f4312def67f50779bdbc25f9be0425f9",
+            "depends": "CDH (>= 5.9), CDH (<< 6)",
+            "replaces": "SPARK",
+            "parcelName": "SPARK2-2.4.0.cloudera2-1.cdh5.13.3.p0.1041012-el5.parcel",
+            "components": [
+                {
+                    "pkg_version": "na\n",
+                    "version": "2.4.0.cloudera2\n",
+                    "name": "spark2\n",
+                    "pkg_release": "na\n"
+                }
+            ]
+        },
+        {
+            "hash": "5291f162f4312def67f50779bdbc25f9be0425f9",
+            "depends": "CDH (>= 5.9), CDH (<< 6)",
+            "replaces": "SPARK",
+            "parcelName": "SPARK2-2.4.0.cloudera2-1.cdh5.13.3.p0.1041012-precise.parcel",
+            "components": [
+                {
+                    "pkg_version": "na\n",
+                    "version": "2.4.0.cloudera2\n",
+                    "name": "spark2\n",
+                    "pkg_release": "na\n"
+                }
+            ]
+        }
+    ],
+    "lastUpdated": 1556115712629
+}
